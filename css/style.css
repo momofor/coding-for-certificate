@@ -10,6 +10,11 @@ body {
   font-family: poppins;
   font-size: 1.2rem;
   color: white;
+  min-height: 100vh;
+}
+.full-height-grow {
+  display: flex;
+  flex-direction: column;
 }
 .brand-logo {
   display: flex;
